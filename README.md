@@ -1,1 +1,1 @@
-This is jqq's first Git project!
+Hello, world!
